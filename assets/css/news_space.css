@@ -1,0 +1,36 @@
+.d-flex{
+    display: flex;
+}
+.full-width{
+    width: 100%;
+}
+.text-center{
+    text-align: center;
+}
+.top-option{
+    width: 100%;
+    height: 30px;
+    justify-content: space-between;
+    font-size: 23px;
+    position: fixed;
+    background-color: white;
+    z-index: 10;
+}
+.top-heading{
+    width: 70%;
+}
+.main-element{
+    width: 80%;
+    padding-top: 100px;
+    align-items: center;
+}
+.main-top{
+    width: 90%;
+}
+.img-top{
+    width: 100%;
+    height: 500px;
+}
+.top-font{
+    font-size: 35px;
+}
