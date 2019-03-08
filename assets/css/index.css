@@ -28,6 +28,7 @@ p{
 }
 .main-content{
     width: 80%;
+    padding-left: 13%;
 }
 .main-top{
     width: 90%;
@@ -130,4 +131,21 @@ small{
 }
 .p-rem{
     margin-top: 1.5rem;
+}
+.button-down{
+    width:65%;
+}
+.modify-with{
+    width:25%;
+}
+.icon-down{
+    width:35%;
+}
+.top-border-line{
+    text-align: center;
+    border: 2px solid black;
+}
+.all-center{
+    margin-right: auto;
+    margin-left: auto;
 }
