@@ -107,4 +107,27 @@ strong{
 }
 .mid-img-text{
     width: 22%;
+    font-size: 10px;
+}
+.img-div{
+    width: 100%;
+}
+.img-div-div{
+    width:22%; 
+}
+.img-div-first{
+    margin-top:-24rem;
+}
+.img-div-second{
+    margin-top:-8rem;
+}
+.video-content{
+    width: 100%;
+    height: 350px;
+}
+small{
+    font-size: 12px;
+}
+.p-rem{
+    margin-top: 1.5rem;
 }
