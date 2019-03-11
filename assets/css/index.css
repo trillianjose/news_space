@@ -183,6 +183,10 @@ small{
     letter-spacing: 0.04rem;
     font-family: Roboto;
 }
+.top-border-line:hover {
+    background-color: black;
+    color: #ebebeb;
+}
 .all-center{
     margin-right: auto;
     margin-left: 10%;
