@@ -1,11 +1,15 @@
 .d-flex{
     display: flex;
 }
-p{
+.p{
   text-align: justify;
+  font-size: 15px;
+}
+.author-info{
+    font-size: 15px;
 }
 .full-width{
-    width: 100%;
+    width: 96%;
 }
 .text-center{
     text-align: center;
@@ -28,7 +32,7 @@ p{
 }
 .main-content{
     width: 80%;
-    padding-left: 13%;
+    padding-left: 14%;
 }
 .main-top{
     width: 90%;
@@ -77,10 +81,10 @@ strong{
 }
 .side{
     width: 30%;
-    margin: -49rem 0 0 39rem;
+    margin: -83% 0 0 70%;
 }
 .sec-aside{
-    margin-top: 14rem;
+    margin-top: 38%;
 }
 .p-abs{
   position: absolute;
@@ -147,5 +151,12 @@ small{
 }
 .all-center{
     margin-right: auto;
-    margin-left: auto;
+    margin-left: 10%;
+}
+.after-margin{
+    width: 64%;
+    margin-left: 13%;
+}
+.margin-four{
+    margin: 4%;
 }
