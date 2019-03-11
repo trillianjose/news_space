@@ -23,6 +23,14 @@
     background-color: white;
     z-index: 10;
 }
+.font-heading{
+    font-family:Lobster;
+    text-decoration:none;
+}
+.heading-left{
+    font-family:space-cosmos;
+    text-decoration:none;
+}
 .top-heading{
     width: 60%;
 }
@@ -157,7 +165,14 @@ small{
 }
 .top-border-line{
     text-align: center;
-    border: 2px solid black;
+    list-style: none;
+    border-top: 1px solid #ebebeb;
+    border-bottom: 1px solid #ebebeb;
+    font-size: 15px;
+    font-weight: 700;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: block;
 }
 .all-center{
     margin-right: auto;
