@@ -1,9 +1,10 @@
 .d-flex{
     display: flex;
 }
-.p{
+p{
   text-align: justify;
-  font-size: 15px;
+  font-size: 16px;
+  font-family: Roboto;
 }
 .author-info{
     font-size: 15px;
@@ -130,7 +131,9 @@ strong{
 }
 .mid-img-text{
     width: 22%;
-    font-size: 10px;
+}
+.mid-img-text-size{
+    font-size: 12px;
 }
 .img-div{
     width: 100%;
@@ -173,6 +176,8 @@ small{
     padding-top: 15px;
     padding-bottom: 15px;
     display: block;
+    letter-spacing: 0.04rem;
+    font-family: Roboto;
 }
 .all-center{
     margin-right: auto;
@@ -191,4 +196,7 @@ small{
 .header-icon-margin-around{
     margin-left: 2px;
     margin-right: 2px;
+}
+a[href="#"]{
+    text-decoration:none;
 }
