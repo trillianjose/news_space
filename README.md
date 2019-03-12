@@ -17,4 +17,4 @@
 ---
 # Live Demo
 
-Click [here](https://raw.githack.com/trillianjose/news_space/development/index.html) to see the latest updates
+Click [here](https://trillianjose.github.io/news_space/) to see the latest updates
